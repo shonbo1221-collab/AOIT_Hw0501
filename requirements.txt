@@ -1,0 +1,15 @@
+# AI Text Detection System - Dependencies
+
+# Machine Learning
+scikit-learn>=1.3.0
+joblib>=1.3.0
+
+# Web Interface
+streamlit>=1.28.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Existing Weather Pipeline Dependencies (if any)
+# Add your existing dependencies below this line
