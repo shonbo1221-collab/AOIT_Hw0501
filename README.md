@@ -4,6 +4,13 @@ This project contains two main capabilities:
 1. **Weather Data Pipeline** - Downloads and visualizes Taiwan weather data from CWA API
 2. **AI Text Detection** - Classifies text as AI-generated or human-written
 
+## 🌐 Live Demo
+
+**Try the AI Text Detection System online:**  
+🔗 [https://aoithw0501-nappyp3vd7s2iqtocjzpwbl.streamlit.app/](https://aoithw0501-nappyp3vd7s2iqtocjzpwbl.streamlit.app/)
+
+No installation required - just visit the link and start analyzing text!
+
 ## 🚀 Quick Start
 
 ### Installation
